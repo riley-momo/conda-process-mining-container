@@ -1,0 +1,10 @@
+duckdb
+jupyter
+pandas
+numpy
+SPARQLWrapper
+ipykernel
+rdflib
+pm4py
+pyarrow
+pyvis
