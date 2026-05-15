@@ -1,10 +1,15 @@
-duckdb
-jupyter
+# general data science
 pandas
 numpy
+# for working with RDF data
 SPARQLWrapper
 rdflib
+# data loading and storage
+duckdb
 r4pm
 pyarrow
-pyvis
+# visualization and notebooks
+jupyter
 ipykernel
+pyvis
+
