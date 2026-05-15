@@ -1,5 +1,6 @@
 # general data science
 pandas
+polars
 numpy
 # for working with RDF data
 SPARQLWrapper
@@ -12,4 +13,5 @@ pyarrow
 jupyter
 ipykernel
 pyvis
+tqdm
 
