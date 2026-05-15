@@ -1,6 +1,6 @@
 # conda-process-mining
 
-A Docker image based on [Miniconda](https://docs.conda.io/en/latest/miniconda.html) with a pre-installed set of Python libraries for process mining and ontology-based data analysis. It is intended as a base dependency image for OPAL, the Ontology-driven Process Analysis engine. 
+A Docker image based on [Miniconda](https://docs.conda.io/en/latest/miniconda.html) with a pre-installed set of Python libraries for process mining and ontology-based data analysis. It is intended as a base dependency image for [OPAL, the Ontology-driven Process Analysis engine](https://github.com/Ontology-Benchmarks/opal). 
 
 ## Contents
 
