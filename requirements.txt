@@ -3,8 +3,8 @@ jupyter
 pandas
 numpy
 SPARQLWrapper
-ipykernel
 rdflib
-pm4py
+r4pm
 pyarrow
 pyvis
+ipykernel
